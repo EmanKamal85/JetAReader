@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programing/Android/AndroidStudioProjects/Kotlin/A.Reader/app/src/main/java/com/example/areader/screens/ReaderSplashScreen.kt" value="0.296969696969697" />
+        <entry key="..\:/Programing/Android/AndroidStudioProjects/Kotlin/A.Reader/app/src/main/java/com/example/areader/screens/home/ReaderHomeScreen.kt" value="0.49830508474576274" />
+        <entry key="..\:/Programing/Android/AndroidStudioProjects/Kotlin/A.Reader/app/src/main/java/com/example/areader/screens/login/ReaderLoginScreen.kt" value="0.2722222222222222" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
